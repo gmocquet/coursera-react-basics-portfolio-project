@@ -29,7 +29,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Live Demo
 
-https://gmocquet.github.io/coursera-react-basic-portfolio-project/
+https://gmocquet.github.io/coursera-react-basics-portfolio-project/
 
 ## Demo
 
